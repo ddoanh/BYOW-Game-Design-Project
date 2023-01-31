@@ -1,4 +1,4 @@
-# BYOW-Game-Design-Project
+# BYOW: Game Design Project
 
 
 ![Screen Shot 2023-01-31 at 12 25 27 AM](https://user-images.githubusercontent.com/98563830/215707787-947f5237-201c-46b8-bbf0-a804dffcae39.png)
